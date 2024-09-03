@@ -1,7 +1,8 @@
 <template>
   <div>
     <el-table
-      :data="tableData"
+      :data="tableData":stripe style="width: 100%
+      
       :span-method="arraySpanMethod"
       border
       style="width: 100%"
